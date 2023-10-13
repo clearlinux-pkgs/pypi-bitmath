@@ -4,7 +4,7 @@
 #
 Name     : pypi-bitmath
 Version  : 1.3.3.1
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/ec/ec/808245570e00df2e1fe8252903da309f18eb58768f44fecc0215dafbc386/bitmath-1.3.3.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ec/ec/808245570e00df2e1fe8252903da309f18eb58768f44fecc0215dafbc386/bitmath-1.3.3.1.tar.gz
 Summary  : Pythonic module for representing and manipulating file sizes with different prefix notations (file size unit conversion)
